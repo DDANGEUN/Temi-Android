@@ -1,4 +1,4 @@
-temi SDK
+temi Web
 ========
 https://github.com/robotemi/sdk
 
